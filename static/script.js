@@ -18,7 +18,7 @@
   }
   var left   = ( wz.tool.environmentWidth() / 2 ) - ( width / 2 );
   var top    = ( wz.tool.environmentHeight() / 2 ) - ( height / 2 );
-  var windowObject = api.popup( 'https://mail.live.com/m/', width, height).render();
+  var windowObject = api.popup( 'https://login.live.com/', width, height).render();
 
     var timer = setInterval( function(){
 
